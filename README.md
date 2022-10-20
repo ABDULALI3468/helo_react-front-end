@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hello react front-end
 
-## Available Scripts
+> This exercise is about creating a "Hello World" application to display a random message. The back-end is built with Rails and the front-end with React.
 
-In the project directory, you can run:
+> ## The api service for this front-end application is [Hello rails back-end](https://github.com/ABDULALI3468/hello-rails-back-end)
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- JavaScript-ES6
+- CSS3
+- ReactJS
+- Redux
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Getting Started
 
-### `npm test`
+To get a local copy up and running follow these simple steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+Before you run this application, you need to install and run the [Hello rails back-end](https://github.com/ABDULALI3468/hello-rails-back-end) api service
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Open your terminal and navigate to the folder you would like to save the project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Type these commands into the terminal:
 
-### `npm run eject`
+```
+git clone https://github.com/ABDULALI3468/helo_react-front-end.git
+cd helo_react-front-end
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Type this command into the terminal:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Build
 
-## Learn More
+Type these commands into the terminal:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm run build
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Open `build/index.html` in your web browser.
 
-### Code Splitting
+### Run dev server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Type these commands into the terminal:
 
-### Analyzing the Bundle Size
+```
+npm run start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Your web browser will open on [http://localhost:3000](http://localhost:3000)
 
-### Making a Progressive Web App
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+👤 **ABDUL ALI**
 
-### Advanced Configuration
+> * This is My **GitHub**: ![GitHub followers](https://img.shields.io/github/followers/ABDULALI3468?label=ABDULALI&style=social)
+> * This is My **Linkedin**: [![Linkedin Badge](https://img.shields.io/badge/-ABDUL%20ALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-ali-5400bb216/)](https://www.linkedin.com/in/abdul-ali-5400bb216/)&nbsp;
+> * This is My **Twitter**: [![Twitter Badge](https://img.shields.io/badge/-@mrabdul_ali_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrabdul_ali)](https://twitter.com/mrabdul_ali)&nbsp;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions, issues, and feature requests are welcome!
 
-### `npm run build` fails to minify
+Feel free to check the [issues page](../../issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/) for the motivation.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
